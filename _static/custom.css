@@ -1,0 +1,10 @@
+img.logo {
+  height: 50px !important;
+  width: auto !important;
+}
+
+a.navbar-item img,
+nav img {
+  height: 40px !important;
+  width: auto !important;
+}
