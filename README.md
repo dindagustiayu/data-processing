@@ -1,23 +1,23 @@
 # Innovative Characterisation of Materials
 
-```{card} NTU Open Research - Inspired
-As researchers, our goal is to communicate what we know and how we arrive at our conclusions. By sharing widely, we create transparent, replicable, and reproducible workflows. And by sharing our educational resources, we can help each other train generations to come.
+> ## NTU Open Research - Inspired
+> As researchers, our goal is to communicate what we know and how we arrive at our conclusions. By sharing widely, we create transparent, replicable, and reproducible workflows. And by sharing our educational resources, we can help each other train generations to come.
+>
+> - Nanyang Asst. Prof. Suzy styles
 
-- Nanyang Asst. Prof. Suzy styles
 
-```
 
 <div align='center'>
 <img src="/images/banner.jpg" width="700" height="250">
 </div>
 
 
-:::{.callout-note appearance="minimal"} 
-## Academic Integrity
-Subject to the existing rights of third parties, **Data Processing** and/or **host institutions** are the copyright owner in this work, and no portion thereof is to be copied, reproduced, or disseminated, including for AI training, without the prior written consent of **Data Processing**.
+> [!IMPORTANT] 
+> ## Academic Integrity
+> Subject to the existing rights of third parties, **Data Processing** and/or **host institutions** are the copyright owner in this work, and no portion thereof is to be copied, reproduced, or disseminated, including for AI training, without the prior written consent of **Data Processing**.
+>
+>For more information, send email to [materials@dindagustiayu.com](mailto:materials@dindagustiayu.com)
 
-For more information, send email to [materials@dindagustiayu.com](mailto:materials@dindagustiayu.com)
-:::
 
 In materials science, utilizing innovative characterization tools is essential for understanding physiochemical properties. The present of **Data Processing** focuses on the used computational and analytical steps for processing and interpreting data from several characterization tools:
 
@@ -28,6 +28,7 @@ In materials science, utilizing innovative characterization tools is essential f
 - Surface and pore size.
 
 ---
+
 ## Welcome
 
 Welcome to **Data Processing!: A Digital Textbook and Practical Guide to Interpreting Materials Characterization Results**. I hope this textbook will be useful for your work, and I hope you enjoy learning with me!
