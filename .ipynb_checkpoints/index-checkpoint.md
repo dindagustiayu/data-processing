@@ -1,14 +1,15 @@
 # Innovative Characterisation of Materials
 
-> ## NTU Open Research - Inspired
-> As researchers, our goal is to communicate what we know and how we arrive at our conclusions. By sharing widely, we create transparent, replicable, and reproducible workflows. And by sharing our educational resources, we can help each other train generations to come.
->
-> - Nanyang Asst. Prof. Suzy styles
+:::{.callout-important appearance="minimal"} 
+## Academic Integrity
+Subject to the existing rights of third parties, **Data Processing** and/or **host institutions** are the copyright owner in this work, and no portion thereof is to be copied, reproduced, or disseminated, including for AI training, without the prior written consent of **Data Processing**.
 
+For more information, send email to [materials@dindagustiayu.com](mailto:materials@dindagustiayu.com)
+:::
 
 
 <div align='center'>
-<img src="/images/data-processing.png" width="800" height="250">
+<img src="/images/data-processing.png" width="700" height="250">
 </div>
 
 
@@ -19,7 +20,6 @@ Welcome to **Data Processing!: A Digital Textbook and Practical Guide to Interpr
 And me?. Well, I'm __Dinda Gusti Ayu__ [![GitHub](https://img.shields.io/badge/--%23181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/dindagustiayu). I'm interested in using Machine Learning to learn the rules of Quantum Mechanics and Simulate Crystalline and Amorphous Solid Systems. I earned an MS in chemistry physics at Universitas Sumatera Utara, Indonesia where I studied the fundamental optical properties and defects modelling in direct band-gap semiconductors for materials research.
 
 ### What is Data Processing?
-
 In materials science, utilizing innovative characterization tools is essential for understanding physiochemical properties. The present of **Data Processing** focuses on the used computational and analytical steps for processing and interpreting data from several characterization tools:
 
 - Chemical
@@ -27,6 +27,7 @@ In materials science, utilizing innovative characterization tools is essential f
 - Morphological
 - Optical
 - Surface and pore size.
+
 
 ### Goal
 The goal is to provide a concise documentation of interpreting characterisation results on both practical and theoritical description of the techniques that are tied to work I have participated in.
