@@ -8,9 +8,6 @@
 
 
 <div align='center'>
-<<<<<<< HEAD
-<img src="/images/data-processing.png" width="800" height="250">
-=======
 <img src="/images/data-processing.png" width="700" height="250">
 >>>>>>> fb452deb8a76fde433b9d5fc7bb77ed83a38caef
 </div>
